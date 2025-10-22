@@ -17,7 +17,7 @@ const StyledHome = styled.div`
     p{
         padding-top: 1vw;
         padding-bottom: 1vw;
-        font-size: calc(2px + 2vw);
+        font-size: calc(2px + 3vw);
     }
         
     @media screen and (max-width: 750px) {
