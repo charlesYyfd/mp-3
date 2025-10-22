@@ -31,7 +31,7 @@ const StyledHome = styled.div`
             padding-top: 2vw;
             padding-bottom: 2vw;
             padding-left: 2vw;
-            font-size: calc(2px + 2vw);
+            font-size: calc(2px + 2.5vw);
         }
     }
 `;
