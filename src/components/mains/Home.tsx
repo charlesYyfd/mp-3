@@ -15,7 +15,7 @@ const StyledHome = styled.div`
         box-sizing: border-box;
     }
     p{
-        padding-top: 2vw;
+        padding-top: 1vw;
         padding-bottom: 1vw;
         font-size: calc(2px + 2vw);
     }
@@ -23,15 +23,15 @@ const StyledHome = styled.div`
     @media screen and (max-width: 750px) {
         align-items: center;
         img {
-            max-width: 50%;  //fix problem from mp1
-            padding-top: 4vw;
+            max-width: 40%;  //fix problem from mp1
+            padding-top: 2vw;
             padding-left: 0;
         }
         p{
             padding-top: 2vw;
             padding-bottom: 2vw;
             padding-left: 2vw;
-            font-size: calc(2px + 3vw);
+            font-size: calc(2px + 2vw);
         }
     }
 `;
