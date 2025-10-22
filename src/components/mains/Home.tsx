@@ -7,7 +7,6 @@ const StyledHome = styled.div`
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    gap: 1vh;
     padding: 1vw;
     img {
         max-width: 40%;
