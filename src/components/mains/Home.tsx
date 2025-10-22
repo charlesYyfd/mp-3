@@ -17,7 +17,7 @@ const StyledHome = styled.div`
     p{
         padding-top: 1vw;
         padding-bottom: 1vw;
-        font-size: calc(2px + 3vw);
+        font-size: calc(2px + 2vw);
     }
         
     @media screen and (max-width: 750px) {
@@ -31,7 +31,7 @@ const StyledHome = styled.div`
             padding-top: 2vw;
             padding-bottom: 2vw;
             padding-left: 2vw;
-            font-size: calc(2px + 2.5vw);
+            font-size: calc(2px + 3vw);
         }
     }
 `;
